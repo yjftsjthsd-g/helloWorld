@@ -1,5 +1,11 @@
 Hello world!
 
+This is just a little repo to figure out how GitHub works.
+There's an actual hello world program and makefile in src/
+
+Todo:
+-Learn how to use .gitignore so I can use "git add ." again without pushing up an executable. (I'll bet it's as simple as it sounds)
+
 Pushing up changes:
 git add . && git commit -m 'what you changed' && git push
 
