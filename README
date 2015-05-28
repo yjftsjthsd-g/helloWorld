@@ -9,4 +9,4 @@ Todo:
 Pushing up changes:
 git add . && git commit -m 'what you changed' && git push
 
-Oh, I'm also checking whether commits show up if they were committed one day and pushed another (in Github's user profile).
+Oh, I used this to check whether commits show up if they were committed one day and pushed another (in Github's user profile). As it happens, Github uses the commit time.
